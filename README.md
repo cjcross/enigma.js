@@ -3,6 +3,7 @@
 [![CircleCI](https://circleci.com/gh/qlik-oss/enigma.js.svg?style=shield)](https://circleci.com/gh/qlik-oss/enigma.js)
 [![Greenkeeper badge](https://badges.greenkeeper.io/qlik-oss/enigma.js.svg)](https://greenkeeper.io/)
 [![Coverage Status](https://coveralls.io/repos/github/qlik-oss/enigma.js/badge.svg)](https://coveralls.io/github/qlik-oss/enigma.js)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fenigma.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fenigma.js?ref=badge_shield)
 
 enigma.js is a library that communicates with Qlik QIX Engine.
 You can use it to build your own analytics tools or Node.js services that for example
@@ -95,3 +96,7 @@ node my-file.js
 You may need to adjust the code so the URL points towards your running QIX Engine.
 
 ![/getting-started.gif](/getting-started.gif)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fenigma.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fenigma.js?ref=badge_large)
